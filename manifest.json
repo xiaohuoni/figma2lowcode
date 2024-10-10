@@ -1,0 +1,14 @@
+{
+  "name": "lxfigma",
+  "id": "1409803032818426394",
+  "api": "1.0.0",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": ["figma", "figjam"],
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  }
+}

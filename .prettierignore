@@ -1,0 +1,13 @@
+node_modules
+dist
+*.png
+*.jpg
+*.svg
+.editorconfig
+.env
+.prettierignore
+.gitkeep
+.DS_Store
+.npmrc
+.eslintignore
+.gitignore
